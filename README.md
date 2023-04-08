@@ -1,18 +1,26 @@
 # SiLabs-BLE-Centeral
 
 ## Walkthrough
-creating basic BLE Centeral device who searches for a specific BLE Peripheral that advertises under a pre-defined name & password.
-The projects is based on an "Empty C project", therefore components are needed to be installed. look at "BLE Components.txt" 
+This project creates a basic BLE Central device that searches for a specific BLE Peripheral advertising under a predefined name and password. The project is based on an "Empty C project," so some components must be installed. Refer to "BLE Components.txt" for more information.
 
 
 ## Tools
-Using SSv5, MCUs: BGM220 BGM210 & more...
+This project was developed using SSv5 and MCUs such as BGM220, BGM210, and more.
 
 
-### Relevant REPOs
+### Relevant Repositories
 - https://github.com/anis399/SiLabs-BLE-Peripheral
 - https://github.com/anis399/Commonly_Used-
 
 
+## Social Networks
+LinkedIn: https://www.linkedin.com/in/anis-shakkour/
+<br />
+Youtube:  https://www.youtube.com/results?search_query=anis+shakkour
+
+<br /><br />
+
+## DISCLAIMER
+### This repository is provided as is, and no responsibility is taken for any issues or problems that may arise from its use. The primary purpose of this repository is to share my knowladge and for future uses I may need
 
 <!-- This content will not appear in the rendered Markdown -->
