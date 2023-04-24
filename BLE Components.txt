@@ -8,8 +8,8 @@ Stack:
 	//System
 Feature:
 	//Advertising Base Feature
-	Connection
 	Scanner Base Feature
+	Connection
 GATT:
 	//Configuration
 
